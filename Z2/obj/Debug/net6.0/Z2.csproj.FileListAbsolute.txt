@@ -1,0 +1,15 @@
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/bin/Debug/net6.0/Z2
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/bin/Debug/net6.0/Z2.deps.json
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/bin/Debug/net6.0/Z2.runtimeconfig.json
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/bin/Debug/net6.0/Z2.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/bin/Debug/net6.0/Z2.pdb
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/Z2.csproj.AssemblyReference.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/Z2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/Z2.AssemblyInfoInputs.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/Z2.AssemblyInfo.cs
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/Z2.csproj.CoreCompileInputs.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/Z2.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/refint/Z2.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/Z2.pdb
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/Z2.genruntimeconfig.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z2/obj/Debug/net6.0/ref/Z2.dll
