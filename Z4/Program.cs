@@ -6,8 +6,8 @@ int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
 int с = int.Parse(Console.ReadLine());
 int max = a;
-if (max<b);
+if (max<b)
 max = b;
-if(max<с);
+if(max<с)
 max = с;
 Console.Write("Максимальное число: " + max);
