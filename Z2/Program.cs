@@ -4,7 +4,11 @@
 Console.Write("Введите два числа: ");
 int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
-if(a>b)
+if (a == b)
+{
+    Console.Write("Число " + a + " равно числу " + b);
+}
+else if(a>b)
 {
     Console.Write("Большее число " + a + ", меньшее число " + b);
 }
