@@ -1,0 +1,15 @@
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/Z25.csproj.AssemblyReference.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/Z25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/Z25.AssemblyInfoInputs.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/Z25.AssemblyInfo.cs
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/Z25.csproj.CoreCompileInputs.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/bin/Debug/net6.0/Z25
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/bin/Debug/net6.0/Z25.deps.json
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/bin/Debug/net6.0/Z25.runtimeconfig.json
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/bin/Debug/net6.0/Z25.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/bin/Debug/net6.0/Z25.pdb
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/Z25.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/refint/Z25.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/Z25.pdb
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/Z25.genruntimeconfig.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z25/obj/Debug/net6.0/ref/Z25.dll
