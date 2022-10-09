@@ -1,0 +1,15 @@
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/bin/Debug/net6.0/ZHard6.1
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/bin/Debug/net6.0/ZHard6.1.deps.json
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/bin/Debug/net6.0/ZHard6.1.runtimeconfig.json
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/bin/Debug/net6.0/ZHard6.1.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/bin/Debug/net6.0/ZHard6.1.pdb
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/ZHard6.1.csproj.AssemblyReference.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/ZHard6.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/ZHard6.1.AssemblyInfoInputs.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/ZHard6.1.AssemblyInfo.cs
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/ZHard6.1.csproj.CoreCompileInputs.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/ZHard6.1.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/refint/ZHard6.1.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/ZHard6.1.pdb
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/ZHard6.1.genruntimeconfig.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/ZHard6.1/obj/Debug/net6.0/ref/ZHard6.1.dll

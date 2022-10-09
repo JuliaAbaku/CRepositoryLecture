@@ -1,0 +1,15 @@
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/bin/Debug/net6.0/Z43
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/bin/Debug/net6.0/Z43.deps.json
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/bin/Debug/net6.0/Z43.runtimeconfig.json
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/bin/Debug/net6.0/Z43.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/bin/Debug/net6.0/Z43.pdb
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/Z43.csproj.AssemblyReference.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/Z43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/Z43.AssemblyInfoInputs.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/Z43.AssemblyInfo.cs
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/Z43.csproj.CoreCompileInputs.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/Z43.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/refint/Z43.dll
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/Z43.pdb
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/Z43.genruntimeconfig.cache
+/Users/julia/Desktop/C#DZ/CRepositoryLecture/Z43/obj/Debug/net6.0/ref/Z43.dll
